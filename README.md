@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+- Just finished TypeScript course(1060 hours) in CodeAcademy.lt
+looking for junior programer job.
+
 <!---
 Deshas1230/Deshas1230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
